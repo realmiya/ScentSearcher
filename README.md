@@ -1,7 +1,7 @@
 # scentsearcher
 The backends are already deployed to AWS and all URLs for RESTful APIs in the frontend are set.
 
-To run this application, simply pull the code in the [FrontEnd_AWS] branch, then go to the [frontEnd] directory and run
+To run this application, pull the code in the [FrontEnd_AWS] branch, then go to the [frontEnd] directory and run
 
 npm install
 
