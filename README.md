@@ -4,10 +4,9 @@ The backends are already deployed to AWS and all URLs for RESTful APIs in the fr
 To run this application, 
 step1: pull the code of frontEnd filefolder, then cd [frontEnd] directory and;
 
-step2:  run 'npm install';
+step2: run 'npm install';
 
 step3: if you are willing to run the application in Windows system, please use command 'npm start';
-
        if you are willing to run the application in in Linux system (including mac), please use command 'npm run start_mac';
 
 
