@@ -8,7 +8,7 @@ step2:  run 'npm install';
 
 step3: if you are willing to run the application in Windows system, please use command 'npm start';
 
-        if you are willing to run the application in in Linux system (including mac), please use command 'npm run start_mac';
+       if you are willing to run the application in in Linux system (including mac), please use command 'npm run start_mac';
 
 
 simple introduction and the requirement of Scent Searcher:
