@@ -11,7 +11,7 @@ step3: if you are willing to run the application in Windows system, please use c
        if you are willing to run the application in in Linux system (including mac), please use command 'npm run start_mac';
 ```
 
-###simple introduction and the requirement of Scent Searcher:
+### simple introduction and the requirement of Scent Searcher:
 Scent Searcher caters to an audience that wants to explore different perfumes, and the
 scent notes, (eg: vanilla, rose, amber, etc), they are associated with. The main users of this
 platform are known as scent searchers, who have a profile on the platform, and can search
@@ -25,7 +25,7 @@ can notify Scent searchers when a perfume is added that matches on their favouri
 The platform also allows new perfumes to be added, and Scent Searchers can view the full
 details of perfumes. See the project objectives for further details on what this platform must
 be able to do.
-###Project Objectives
+### Project Objectives
 Scent searchers must be able to maintain a profile where they specify their name, contact
 details (email), and favourite scent notes. Given that some scent searchers may not know
 which perfumes can match notes they like, scent searchers must be able to search for
@@ -59,7 +59,7 @@ note that project objectives always take priority.
 https://www.kaggle.com/sagikeren88/fragrances-and-perfumes
 https://www.fragrantica.com/ingredients-search/
 
-###delivery
+### delivery
 this project attempts to build a website to provide users with the ability to search for perfumes, explore different perfumes and the notes associated with them. The website will be equipped with a powerful database that will not only have details of the perfumes but will also store information on notes, users, reviews and more. Users will be able to make inquiries about what they are interested in during the process.
 Scent is a being with unique abilities. It can sometimes be like a carrier for people to be able to store emotions and memories. Therefore, perfume is increasingly becoming a con-temporary way of life. People want to explore different fragrances and want to understand more deeply the relationship between the various notes in a perfume. But there is no platform that integrates all the fragrances on the market that allows them to search for perfumes by the combination of notes easily and quickly. Sometimes the search results are not an exact match, and the combination of notes is different from what is expected, but it is not immediately intuitive to tell the difference.
 The challenges of this project are the following. First, the processing and cleaning of the data will be the difficulties. And to increase the detailed information of the perfume, we also need to store the detailed description of the perfume as well as the pictures through web crawlers. Second, the project will use the latest technology architecture and tech-nology stack for both front-end and back-end. The presentation layer will use HTML, CSS and reactJS. The business layer will use Spring, Spring MVC and Mybatis, and PostgreSQL will be the processing tool for the data layer.
